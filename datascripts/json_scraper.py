@@ -5,7 +5,7 @@ from pprint import PrettyPrinter
 plant = 'poison ivy'
 
 response = get_observations(
-    taxon_name='poison ivy',
+    taxon_name='Toxicodendron radicans',
     photos=True,
     geo=True,
     geoprivacy='open',
