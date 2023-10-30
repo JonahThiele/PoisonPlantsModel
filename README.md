@@ -4,7 +4,7 @@ An Android and tensorflow App to recognize poisonouse or deadly plants in the wi
 
 ## Installing
 The release APK is under androidApp/PoisonPlant/app/release just download the apk
-to your device and intall the app.
+to your device and install the app.
 
 ## Usage
 The app is mostly self explanatory 
